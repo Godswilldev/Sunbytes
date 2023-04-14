@@ -16,7 +16,7 @@ My Solution to Sunbytes Senior Backend Developer Task
 $ npm install
 ```
 
-1. Create a .env file in the root of the project with the following values
+2. Create a .env file in the root of the project with the following values
 
 ```bash
 NODE_ENV=
